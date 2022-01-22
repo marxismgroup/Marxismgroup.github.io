@@ -1536,7 +1536,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #00c4b6;
+  background: #36648b;
   color: #f7f7f7;
 }
 button {
@@ -1731,7 +1731,7 @@ figure.highlight pre .javascript .function {
 }
 #article-container code {
   padding: 2px 4px;
-  background: rgba(27,31,35,0.05);
+  background: #1b1f23;
   color: #f47466;
 }
 #article-container pre {
@@ -5754,7 +5754,7 @@ blockquote.pullquote.right {
   box-shadow: none;
 }
 [data-theme='dark'] #article-container .note code {
-  background: rgba(27,31,35,0.05);
+  background: #1b1f23;
 }
 [data-theme='dark'] #article-container .aplayer {
   filter: brightness(0.8);
