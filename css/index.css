@@ -1438,7 +1438,7 @@ canvas:not(#ribbon-canvas),
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
   --pseudo-hover: #ff7242;
   --headline-presudo: #a0a0a0;
-  --scrollbar-color: #49b1f5;
+  --scrollbar-color: #458b74;
 }
 body {
   position: relative;
@@ -4160,7 +4160,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #556b2f;
+  background: #2e8b57;
   color: var(--white);
 }
 #pagination .pagination-info {
