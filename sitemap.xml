@@ -65,6 +65,27 @@
 
   
   <url>
+    <loc>http://marxismgroup.github.io/tags/%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5/</loc>
+    <lastmod>2022-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marxismgroup.github.io/tags/%E9%98%B6%E7%BA%A7/</loc>
+    <lastmod>2022-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marxismgroup.github.io/tags/%E9%98%B6%E5%B1%82/</loc>
+    <lastmod>2022-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://marxismgroup.github.io/tags/%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6/</loc>
     <lastmod>2022-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -99,28 +120,14 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://marxismgroup.github.io/tags/%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5/</loc>
-    <lastmod>2022-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://marxismgroup.github.io/tags/%E9%98%B6%E7%BA%A7/</loc>
-    <lastmod>2022-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://marxismgroup.github.io/tags/%E9%98%B6%E5%B1%82/</loc>
-    <lastmod>2022-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
+  
+  <url>
+    <loc>http://marxismgroup.github.io/categories/%E8%B0%83%E6%9F%A5/</loc>
+    <lastmod>2022-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://marxismgroup.github.io/categories/%E6%97%B6%E8%AF%84/</loc>
@@ -131,13 +138,6 @@
   
   <url>
     <loc>http://marxismgroup.github.io/categories/%E6%96%87%E8%89%BA/</loc>
-    <lastmod>2022-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://marxismgroup.github.io/categories/%E8%B0%83%E6%9F%A5/</loc>
     <lastmod>2022-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
