@@ -119,27 +119,6 @@
 
   
   <url>
-    <loc>http://marxismgroup.xyz/tags/%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://marxismgroup.xyz/tags/%E9%98%B6%E7%BA%A7/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://marxismgroup.xyz/tags/%E9%98%B6%E5%B1%82/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://marxismgroup.xyz/tags/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
     <lastmod>2022-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,6 +203,13 @@
   </url>
   
   <url>
+    <loc>http://marxismgroup.xyz/tags/%E9%98%B6%E7%BA%A7/</loc>
+    <lastmod>2022-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://marxismgroup.xyz/tags/%E9%98%B6%E7%BA%A7%E6%96%97%E4%BA%89/</loc>
     <lastmod>2022-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -239,6 +225,20 @@
   
   <url>
     <loc>http://marxismgroup.xyz/tags/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%A4%8D%E8%BE%9F/</loc>
+    <lastmod>2022-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marxismgroup.xyz/tags/%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5/</loc>
+    <lastmod>2022-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marxismgroup.xyz/tags/%E9%98%B6%E5%B1%82/</loc>
     <lastmod>2022-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -261,13 +261,6 @@
 
   
   <url>
-    <loc>http://marxismgroup.xyz/categories/%E8%B0%83%E6%9F%A5/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://marxismgroup.xyz/categories/%E5%AD%A6%E6%9C%AF/</loc>
     <lastmod>2022-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -283,6 +276,13 @@
   
   <url>
     <loc>http://marxismgroup.xyz/categories/%E6%96%87%E8%89%BA/</loc>
+    <lastmod>2022-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://marxismgroup.xyz/categories/%E8%B0%83%E6%9F%A5/</loc>
     <lastmod>2022-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
